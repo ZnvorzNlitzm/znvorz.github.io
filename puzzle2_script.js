@@ -111,7 +111,7 @@ function init() {
   document.getElementById("validate-button").addEventListener("click", validateCode);
   document.getElementById("next-button").addEventListener("click", function() {
     if (isOrderCorrect) {
-      window.location.href = "puzzle3.html";
+      window.location.href = "puzzle3_345e20ba-316a-4f3b-92ac-334d51a31f21.html";
     }
   });
 
