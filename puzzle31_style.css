@@ -1,0 +1,38 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 40px;
+}
+
+.hidden-text {
+  color: transparent;
+  background-color: rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  padding: 5px;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+#answer-input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+#submit-button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#response-message {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+}
